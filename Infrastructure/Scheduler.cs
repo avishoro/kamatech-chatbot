@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Infrastructure
 {
+
     public class Scheduler : IScheduler
     {
         PluginsManager _pluginsManager;
